@@ -59,4 +59,4 @@ A quick look at the top-level files and directories you'll see in this project.
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Rajesh-Royal/car-bidding-system-react)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sanskargupta-ss/Car-bidding-application-NextGen-IOT)
